@@ -1,0 +1,26 @@
+# The Electroretinogram as a Potential Biomarker of Psychosis in Children at Familial Risk
+
+Moreau, Isabel; Hébert, Marc; Maziade, Michel; Painchaud, Alexandra; Mérette, Chantal. "The Electroretinogram as a Potential Biomarker of Psychosis in Children at Familial Risk," in Schizophrenia Bulletin Open, vol. 3, no. 1, 2022. doi: [10.1093/schizbullopen/sgac016](https://doi.org/10.1093/schizbullopen/sgac016)
+
+## 1. Fichamento de Conteúdo
+
+O artigo investiga o uso da eletroretinografia (*Electroretinogram* - ERG) como biomarcador para detecção individual de risco de psicose em crianças com risco familiar elevado (*High Risk* - HR) para esquizofrenia (SZ) ou transtorno bipolar (*Bipolar Disorder* - BP). Os autores utilizaram um modelo de regressão logística previamente derivado de dados de ERG de 150 pacientes com SZ e 200 controles saudáveis para calcular escores de risco individualizados em uma amostra de 61 jovens HR e 80 controles (CT). O estudo demonstrou que os sujeitos HR foram 3,5 vezes mais propensos a serem classificados como "esquizofrenia-símile" (SZ-*like*) do que os controles, com base em seus perfis de ERG. Adicionalmente, entre os sujeitos HR, aqueles classificados como SZ-*like* apresentaram 2,7 vezes maior probabilidade de ter experienciado sintomas psicóticos-símile (*Psychotic-like Experiences* - PLEs) em comparação com todos os demais sujeitos HR, e 6,8 vezes maior probabilidade quando comparados especificamente com aqueles de risco muito baixo. Os resultados sugerem que o ERG pode servir como uma ferramenta objetiva, não invasiva e de rápida aquisição para identificação precoce da suscetibilidade a transtornos psicóticos em crianças com risco familiar, contribuindo para estratégias de prevenção e intervenção personalizadas.
+
+## 2. Fichamento Bibliográfico
+
+* *Electroretinogram* (ERG) (Eletroretinografia) é um teste não invasivo que mede as respostas elétricas da retina à estimulação luminosa, incluindo componentes de onda-a e onda-b com suas respectivas amplitudes e latências, utilizado como biomarcador potencial para transtornos psiquiátricos (página 2).
+* *High Risk* (HR) (Alto Risco) refere-se a crianças e jovens de 6 a 24 anos com pelo menos um genitor diagnosticado com esquizofrenia ou transtorno bipolar, apresentando maior probabilidade estatística de desenvolver transtornos psicóticos (página 3).
+* *Psychotic-like Experiences* (PLEs) (Experiências Psicóticas-símile) são sintomas subclínicos que incluem anormalidades perceptivas, delírios e comportamentos bizarros avaliados através de entrevistas semiestruturadas adaptadas de protocolos padronizados (página 4).
+* Escore de risco individualizado é uma probabilidade calculada através do modelo de regressão logística que estima a likelihood de um sujeito apresentar perfil de ERG semelhante ao de um paciente com esquizofrenia, variando de 0,0 a 1,0 (página 4).
+* Classificação SZ-*like* (esquizofrenia-símile) é atribuída a sujeitos com escore de risco individualizado igual ou superior a 0,90, indicando alta semelhança com perfis de ERG de pacientes com esquizofrenia (página 4).
+* Biomarcador é definido como uma ferramenta biológica objetiva capaz de auxiliar no diagnóstico, detecção precoce e predição de transição para psicose, sendo o ERG proposto como exemplo de biomarcador não invasivo e de rápida aquisição (página 2).
+
+## 3. Fichamento de Citações
+
+* _"Over the past few years, researchers have been searching for biomarkers that could help diagnose psychiatric disorders, detect early onset, and predict transition to psychosis."_
+* _"A biological diagnostic-aid tool could help to identify subjects most at risk of developing psychosis in order to prevent or delay onset of the disease with early treatment and intervention, thus improving patients' outcome and response to treatment."_
+* _"However, the retina has already been identified as an accessible part of the brain, and retinal functions can be safely investigated using an ERG."_
+* _"In Hébert et al, we showed that a large sample of 150 subjects with schizophrenia (SZ) significantly differed from 200 healthy control (CT) subjects on several ERG parameters, on which basis we derived a logistic model that calculates, for a new subject, the risk score of having an ERG profile resembling that of an SZ patient."_
+* _"The ERG is a non-invasive, safe, objective and accessible test that has already shown its potential to become an aid to diagnosis for several psychiatric illnesses and neurological conditions, such as multiple sclerosis or Parkinson's disease."_
+* _"Our data suggest that this SZ-like ERG was more often found among HR than CT youths. Moreover, HR subjects classified as SZ-like were more likely to have experienced PLEs than those classified as CT-like."_
+* _"These two findings reinforce the ERG as a potential biomarker contributing to individualized prediction and early detection of the risk of transition to psychosis among children at familial risk, contributing highly translational findings to clinical practice."_
