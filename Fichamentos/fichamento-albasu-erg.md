@@ -12,7 +12,7 @@ O artigo apresenta uma metodologia para classificação de sinais de *electroret
 * *Short-time Fourier transform* (*STFT*) (Transformada de Fourier de Tempo Curto) converte sinais para domínio tempo-frequência usando função janela deslizante sobre o sinal, produzindo espectrograma 2D com eixos de tempo, frequência e amplitude codificada por cores (página 318-319).
 * *Machine learning* (*ML*) (Aprendizado de Máquina) utiliza algoritmo de árvore de decisão implementado com *scikit-learn* para classificação de sinais como saudáveis ou não saudáveis, escolhido pela natureza interpretável e capacidade com dados desbalanceados (página 319).
 * Componentes ERG incluem amplitude das ondas a e b, latências, *oscillatory potentials* (OPs), *photopic negative response* e *flicker ERG response*, extraídos manualmente com assistência de clínico especializado para análise do status de saúde (página 318).
-* Tipos de resposta ERG incluem *scotopic* 2.0 (baixa luminosidade, fotorreceptores bastonetes), *maximum* 2.0 (alta intensidade, cones) e *photopic* 2.0 (intensidade média, cones), cada um com características específicas de amplitude e latência (ppágina 318-319).
+* Tipos de resposta ERG incluem *scotopic* 2.0 (baixa luminosidade, fotorreceptores bastonetes), *maximum* 2.0 (alta intensidade, cones) e *photopic* 2.0 (intensidade média, cones), cada um com características específicas de amplitude e latência (página 318-319).
 * Extração de características do espectrograma inclui intensidades mínima, máxima, mediana e média, representando respectivamente regiões de amplitude baixa, alta, média e média do sinal (página 319).
 
 ## 3. Fichamento de Citações
