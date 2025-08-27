@@ -24,3 +24,4 @@ O artigo apresenta uma metodologia para classificação de sinais de *electroret
 * _"This work has the potential to contribute to the development of more effective tools to assess the functional health of the retina, enhancing the diagnosis and treatment of various retinal diseases."_
 * _"Initial results from this investigation have indicated that this methodology has considerable potential, but also presents several challenges, such as imbalanced datasets and the resolution trade-off."_
 * _"Ultimately, this work has the potential to contribute to the development of more effective tools for assessing the functional health of the retina, enhancing the diagnosis and treatment of various retinal diseases."_
+* _"The model used for the classification of signals based on the extracted features uses a decision tree algorithm implemented using the scikit-learn library to determine whether a signal is healthy or unhealthy."_

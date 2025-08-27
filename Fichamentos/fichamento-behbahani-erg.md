@@ -1,6 +1,6 @@
 # Feature Extraction Methods for Electroretinogram Signal Analysis: A Review
 
-Behbahani, Soroor; Ahmadieh, Hamid; Rajan, Sreeraman. "Feature Extraction Methods for Electroretinogram Signal Analysis: A Review," IEEE Access, vol. 9, pp. 116879-116897, 2021. doi: [10.1109/ACCESS.2021.3103848](https://doi.org/10.1109/ACCESS.2021.3103848)
+Behbahani, Soroor; Ahmadieh, Hamid; Rajan, Sreeraman. "Feature Extraction Methods for Electroretinogram Signal Analysis: A Review," IEEE Access, vol. 9, página 116879-116897, 2021. doi: [10.1109/ACCESS.2021.3103848](https://doi.org/10.1109/ACCESS.2021.3103848)
 
 ## 1. Fichamento de Conteúdo
 
@@ -9,10 +9,10 @@ Este artigo apresenta uma revisão abrangente dos métodos de extração de cara
 ## 2. Fichamento Bibliográfico
 
 * *Electroretinogram* (*ERG*) (Eletroretinograma) é sinal elétrico de curta duração (tipicamente 200 ms) que registra a resposta de células retinianas à estimulação luminosa, contendo componentes como ondas a, b, i-*wave*, *photopic negative response* e *oscillatory potentials* (p. 116879-116880).
-* *Wavelet analysis* (*WA*) (Análise Wavelet) inclui *continuous wavelet transform* (*CWT*) e *discrete wavelet transform* (*DWT*), sendo superior ao *STFT* por fornecer melhor resolução em frequência para baixas frequências e melhor resolução temporal para altas frequências (pp. 116883-116887).
-* Métodos não-lineares incluem *approximate entropy* (*ApEn*), *Hurst exponent* (*HE*), *largest Lyapunov exponent* (*LLE*) e *Higuchi fractal dimension* (*HFD*) para caracterizar comportamento caótico e complexidade de sinais ERG (pp. 116888-116890).
+* *Wavelet analysis* (*WA*) (Análise Wavelet) inclui *continuous wavelet transform* (*CWT*) e *discrete wavelet transform* (*DWT*), sendo superior ao *STFT* por fornecer melhor resolução em frequência para baixas frequências e melhor resolução temporal para altas frequências (página 116883-116887).
+* Métodos não-lineares incluem approximate entropy (ApEn), Hurst exponent (HE), largest Lyapunov exponent (LLE), Higuchi fractal dimension (HFD) e Recurrence plot para caracterizar comportamento caótico e complexidade de sinais ERG (página 116888-116890).
 * *International Society for Clinical Electrophysiology of Vision* (*ISCEV*) estabeleceu protocolo padrão com seis tipos de resposta ERG baseados em diferentes estados de adaptação ao claro/escuro e intensidades de flash (p. 116880).
-* Análise no domínio da frequência utiliza *fast Fourier transform* (*FFT*), *power spectral density* (*PSD*) e *linear prediction* (*LP*), sendo mais adequada para componentes de alta frequência como *oscillatory potentials* (80-160 Hz) (pp. 116881-116882).
+* Análise no domínio da frequência utiliza *fast Fourier transform* (*FFT*), *power spectral density* (*PSD*) e *linear prediction* (*LP*), sendo mais adequada para componentes de alta frequência como *oscillatory potentials* (80-160 Hz) (página 116881-116882).
 * Extração de características tradicionais no domínio do tempo mede amplitudes e tempos implícitos das ondas a e b, mas é sensível a ruído e pode não capturar informações sutis de disfunções retinianas (p. 116880).
 
 ## 3. Fichamento de Citações
