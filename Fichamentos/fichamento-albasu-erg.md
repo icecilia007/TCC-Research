@@ -1,6 +1,6 @@
 # ERG Classification by Using ML Methods Based on Short-Time Fourier Transform
 
-Albasu, Faisal B.; Kulyabin, Mikhail; Zhdanov, Aleksei; Dolganov, Anton; Borisov, Vasilii; Ronkin, Mikhail. "ERG Classification by Using ML Methods Based on Short-Time Fourier Transform," in 2024 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT), Yekaterinburg, Russia, 2024, ppágina 318-321. doi: [10.1109/USBEREIT61901.2024.10583978](https://doi.org/10.1109/USBEREIT61901.2024.10583978)
+Albasu, Faisal B.; Kulyabin, Mikhail; Zhdanov, Aleksei; Dolganov, Anton; Borisov, Vasilii; Ronkin, Mikhail. "ERG Classification by Using ML Methods Based on Short-Time Fourier Transform," in 2024 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT), Yekaterinburg, Russia, 2024, página 318-321. doi: [10.1109/USBEREIT61901.2024.10583978](https://doi.org/10.1109/USBEREIT61901.2024.10583978)
 
 ## 1. Fichamento de Conteúdo
 
