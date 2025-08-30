@@ -14,16 +14,16 @@ Consulte o arquivo [ListaArtigos.md](./ListaArtigos.md) para detalhes completos 
 2. **Artigo 2:** Navigating the Complexity of Generative AI Adoption in Software Engineering (Lista Base) 
    [Fichamento Artigo 1](./LISTA-BASE-76_fichamento-navigating-the-complexity-of-generativ.md)
 
-3. **Artigo 3:** Título do Artigo 3  
+3. **Artigo 3:** Evaluation of electroretinography (ERG) parameters as a biomarker for ADHD 
    [Fichamento Artigo 3](./fichamento-erg-ADHD.md)
 
-4. **Artigo 4:** Título do Artigo 4  
+4. **Artigo 4:** ERG Classification by Using ML Methods Based on Short-Time Fourier Transform
    [Fichamento Artigo 4](./fichamento-albasu-erg.md)
 
-5. **Artigo 5:** Título do Artigo 5  
+5. **Artigo 5:** Understanding the subtypes of visual hypersensitivity: Four coherent factors and their measurement with the Cardiff Hypersensitivity Scale (CHYPS)
    [Fichamento Artigo 5](./fichamento-hypersensitivity.md)
 
-6. **Artigo 6:** Título do Artigo 6  
+6. **Artigo 6:** Semantic Textual Similarity Analysis of Clinical Text in the Era of LLM
    [Fichamento Artigo 6](./fichamento-feng-llm.md)
 
 
