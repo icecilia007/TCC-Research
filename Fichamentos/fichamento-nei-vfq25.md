@@ -1,6 +1,6 @@
 # Versão brasileira do Questionário NEI VFQ-25: tradução, confiabilidade e validade
 
-Simão, Luciano M.; Lana-Peixoto, Marco A.; Araújo, Carolina R.; Moreira, Marcos A.; Teixeira, Antônio L. "Versão brasileira do Questionário de Função Visual de 25 Itens do National Eye Institute: tradução, confiabilidade e validade," em Arquivos Brasileiros de Oftalmologia, vol. 71, no. 4, 2008, ppágina 540–546. doi: [10.1590/S0004-27492008000400014](https://doi.org/10.1590/S0004-27492008000400014)
+Simão, Luciano M.; Lana-Peixoto, Marco A.; Araújo, Carolina R.; Moreira, Marcos A.; Teixeira, Antônio L. "Versão brasileira do Questionário de Função Visual de 25 Itens do National Eye Institute: tradução, confiabilidade e validade," em Arquivos Brasileiros de Oftalmologia, vol. 71, no. 4, 2008, pp. 540–546. doi: [10.1590/S0004-27492008000400014](https://doi.org/10.1590/S0004-27492008000400014)
 
 ## 1. Fichamento de Conteúdo
 
