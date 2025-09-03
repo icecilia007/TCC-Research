@@ -12,7 +12,7 @@ Consulte o arquivo [ListaArtigos.md](./ListaArtigos.md) para detalhes completos 
    [Fichamento Artigo 1](./LISTA-BASE-78_fichamento-niu-LLMs.md)
 
 2. **Artigo 2:** Navigating the Complexity of Generative AI Adoption in Software Engineering (Lista Base) 
-   [Fichamento Artigo 1](./LISTA-BASE-76_fichamento-navigating-the-complexity-of-generativ.md)
+   [Fichamento Artigo 2](./LISTA-BASE-76_fichamento-navigating-the-complexity-of-generativ.md)
 
 3. **Artigo 3:** Evaluation of electroretinography (ERG) parameters as a biomarker for ADHD 
    [Fichamento Artigo 3](./fichamento-erg-ADHD.md)
