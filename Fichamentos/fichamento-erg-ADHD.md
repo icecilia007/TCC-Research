@@ -26,4 +26,3 @@ Este estudo exploratório aborda a complexa questão do diagnóstico do Transtor
 * _"In males, a significant prolonged cone a-wave latency was observed in the ADHD groupágina In females, we observed a significant decrease in the cone a- and b-wave amplitudes."_
 * _"These data show the potential of the ERG to detect ADHD, warranting further large-scale studies."_
 * _"Since diagnosis relies on subjective reports and ADHD is heterogeneous, objective measures like ERG may offer valuable diagnostic support for neurodevelopmental and mental disorders."_
-* _"We therefore investigated its ability to detect ADHD," linking ERG biomarcagem to transtornos do neurodesenvolvimento._
