@@ -26,4 +26,18 @@ Consulte o arquivo [ListaArtigos.md](./ListaArtigos.md) para detalhes completos 
 **Artigo 6:** [Semantic Textual Similarity Analysis of Clinical Text in the Era of LLM](Artigos/Semantic_Textual_Similarity_Analysis_of_Clinical_Text_in_the_Era_of_LLM.pdf)
    [Fichamento Artigo 6](./fichamento-feng-llm.md)
 
+#### Artigos fichados para entrega A4
+
+**Artigo 7:**
+ [Neural machine translation of clinical text: an empirical investigation into multilingual pre-trained language models and transfer-learning](Artigos/Han-Lifeng-and-Gladkoff-Serge-and-Erofeev-Gleb-and-Sorokina-Irina-and-Galiano-Betty-and-Nenadic-Goran.pdf) (Lista Base) 
+   [Fichamento Artigo 7](./fichamento-han-lifeng.md)
+
+**Artigo 8:**
+ [Autism Spectrum Disorder detection using variable frequency complex demodulation of the electroretinogram](Artigos/Autism_spectrum_disorder_detection_using_variable_frequency.pdf)
+   [Fichamento Artigo 8](./fichamento-posada-autism.md)
+
+**Artigo 9:**
+ [Spectral Analysis of Light-Adapted Electroretinograms in Neurodevelopmental Disorders: Classification with *Machine Learning*](Artigos/Spectral_Analysis_of_Light-Adapted_Electroretinograms_in_Neurodevelopmental_Disorders_Classification_with_Machine_Learning.pdf) 
+   [Fichamento Artigo 9](./fichamento-constable-paul.md)
+
 

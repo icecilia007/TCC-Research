@@ -9,8 +9,10 @@ O presente trabalho tem como objetivo desenvolver uma pesquisa que utilize técn
 ## Professores responsáveis
 
 * Cleiton Tavares
-* Nome do orientador de acadêmico (TCCI)
-* Nome do orientador de TCC II
+* Danilo Maia
+* Leonardo Vilela
+* Raphael Ramos
+* Hugo Bastos
 
 ## Instruções de Replicação/Reprodução
 
